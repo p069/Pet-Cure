@@ -1,5 +1,5 @@
-# Microservice Pet Clinic
-Microservice Pet Clinic is a fully distributed, cloud-native application designed to demonstrate the power of microservices architecture using multiple technologies like Java, Golang, Node.js, and Python. It follows best practices for service discovery, API management, monitoring, tracing, authentication, and CI/CD.
+# Pet Cure: Pet Clinic
+Pet Cure is a fully distributed, cloud-native application designed to demonstrate the power of microservices architecture using multiple technologies like Java, Golang, Node.js, and Python. It follows best practices for service discovery, API management, monitoring, tracing, authentication, and CI/CD.
 
 
 
